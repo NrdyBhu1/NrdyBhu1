@@ -9,7 +9,7 @@ I am a passionate game dev and i learnt many languages only to make games.
 
 # What languages do I know
 
-![ScreenShot](/https://raster.shields.io/badge/python-90%25-green.png)
+![ScreenShot](https://raster.shields.io/badge/python-90%25-green.png)
 
 # My first project
 My first project was a prototype which was unfinished but still it was a game.
