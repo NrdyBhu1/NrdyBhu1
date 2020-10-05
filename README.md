@@ -13,4 +13,3 @@ My first project was a prototype which was unfinished but still it was a game.
 # What am I doing currently
 Currently I am youtubing and thinking of a neat game concept.
 
-https://tinyurl.com/NrdyBhu1Trailer
