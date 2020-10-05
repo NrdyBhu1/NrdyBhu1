@@ -12,9 +12,9 @@ I am a passionate game dev and i learnt many languages only to make games.
 ![ScreenShot](https://raster.shields.io/badge/python-90%25-green.png)
 ![ScreenShot](https://raster.shields.io/badge/html-80%25-important.png)
 ![ScreenShot](https://raster.shields.io/badge/css-50%25-important.png)
-![ScreenShot](https://raster.shields.io/badge/html-80%25-important.png)
-![ScreenShot](https://raster.shields.io/badge/html-80%25-important.png)
-![ScreenShot](https://raster.shields.io/badge/html-80%25-important.png)
+![ScreenShot](https://raster.shields.io/badge/javascript-70%25-important.png)
+![ScreenShot](https://raster.shields.io/badge/brainf-100%25-important.png)
+![ScreenShot](https://raster.shields.io/badge/rust-70%25-important.png)
 
 # My first project
 My first project was a prototype which was unfinished but still it was a game.
