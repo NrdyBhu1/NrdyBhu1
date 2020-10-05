@@ -2,9 +2,6 @@
 
 This down here is the count of number of people who visited my github profile. 
 
-[![About Me](https://img.shields.io/badge/About-me.svg)](#About)
-
-
 [![HitCount](http://hits.dwyl.com/NrdyBhu1/NrdyBhu1.svg)](#)
 
 # About Me
