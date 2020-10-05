@@ -17,7 +17,7 @@ I am a passionate game dev and i learnt many languages only to make games.
 ![ScreenShot](https://raster.shields.io/badge/rust-70%25-red.png)
 ![ScreenShot](https://raster.shields.io/badge/java-80%25-critical.png)
 ![ScreenShot](https://raster.shields.io/badge/c#-80%25-success.png)
-![ScreenShot](https://raster.shields.io/badge/c++-20%25-inactive.png)
+![ScreenShot](https://raster.shields.io/badge/cpp-20%25-inactive.png)
 ![ScreenShot](https://raster.shields.io/badge/cg-80%25-blueviolet.png)
 
 # My first project
