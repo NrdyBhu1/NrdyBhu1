@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 This down here is the count of number of people who visited my github profile.
+
 [![HitCount](http://hits.dwyl.com/NrdyBhu1/NrdyBhu1.svg)](#)
 
 # About Me
