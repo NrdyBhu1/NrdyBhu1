@@ -28,9 +28,9 @@ Currently I am youtubing and thinking of a neat game concept.
 
 
 # Social Accounts
-[Itch.io](https://nrdybhu1.itch.io/) 
-[Patreon](https://patreon.com/NrdyBhu1) 
-[Youtube](https://www.youtube.com/channel/UCoPBq4YveNbsHkg4Rd9AXXQ) 
-[My Website](https://nrdybhu1.github.io/) 
-[Gmail](nrdybhu1.queries@gmail.com) 
+[Itch.io](https://nrdybhu1.itch.io/) \
+[Patreon](https://patreon.com/NrdyBhu1) \
+[Youtube](https://www.youtube.com/channel/UCoPBq4YveNbsHkg4Rd9AXXQ) \
+[My Website](https://nrdybhu1.github.io/) \
+[Gmail](nrdybhu1.queries@gmail.com) \
 [Github](https://github.com/NrdyBhu1) 
