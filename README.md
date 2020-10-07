@@ -9,15 +9,15 @@ I am a passionate game dev and i learnt many languages only to make games.
 
 # What languages do I know
 
-![ScreenShot](https://raster.shields.io/badge/python-90%25-green.png)
-![ScreenShot](https://raster.shields.io/badge/html-80%25-important.png)
-![ScreenShot](https://raster.shields.io/badge/css-50%25-informational.png)
-![ScreenShot](https://raster.shields.io/badge/javascript-70%25-yellow.png)
-![ScreenShot](https://raster.shields.io/badge/brainf-100%25-ff69b4.png)
-![ScreenShot](https://raster.shields.io/badge/rust-70%25-red.png)
-![ScreenShot](https://raster.shields.io/badge/java-80%25-critical.png)
-![ScreenShot](https://raster.shields.io/badge/csharp-80%25-success.png)
-![ScreenShot](https://raster.shields.io/badge/cpp-20%25-inactive.png)
+![ScreenShot](https://raster.shields.io/badge/python-90%25-green.png) \
+![ScreenShot](https://raster.shields.io/badge/html-80%25-important.png) \
+![ScreenShot](https://raster.shields.io/badge/css-50%25-informational.png) \
+![ScreenShot](https://raster.shields.io/badge/javascript-70%25-yellow.png) \
+![ScreenShot](https://raster.shields.io/badge/brainf-100%25-ff69b4.png) \
+![ScreenShot](https://raster.shields.io/badge/rust-70%25-red.png) \
+![ScreenShot](https://raster.shields.io/badge/java-80%25-critical.png) \
+![ScreenShot](https://raster.shields.io/badge/csharp-80%25-success.png) \
+![ScreenShot](https://raster.shields.io/badge/cpp-20%25-inactive.png) \
 ![ScreenShot](https://raster.shields.io/badge/cg-80%25-blueviolet.png)
 
 # My first project
