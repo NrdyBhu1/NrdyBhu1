@@ -7,6 +7,14 @@ This down here is the count of number of people who visited my github profile.
 # About Me
 I am a passionate game dev and i learnt many languages only to make games.
 
+# What tools do i use?
+I use VS-Code , Unity , GIMP , Audacity and Bosca Ceoil for game dev.
+- [VS-Code](https://code.visualstudio.com) is a very good and light-weight ide with awesome auto-completion.
+- [Unity](https://unity3d.com)  is an awesome game-engine with so many cool features and uses C# code to compile and make games.
+- [GIMP](https://gimp.org) is an amazing software for creating sprites and exporting them.
+- [Audacity](https://audacityteam.org) is usefull for sound effects.
+- [Bosca Ceoil](https://boscaceoil.net) is an awesome tool for music creation.
+
 # What languages do I know
 
 ![ScreenShot](https://raster.shields.io/badge/python-90%25-green.png) \
