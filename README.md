@@ -26,3 +26,7 @@ My first project was a prototype which was unfinished but still it was a game.
 # What am I doing currently
 Currently I am youtubing and thinking of a neat game concept.
 
+
+# Social Accounts
+
+![ScreenShot][https://raster.shields.io/badge/nrdybhu1-patreon-blueviolet.png](https://patreon.com/NrdyBhu1)
