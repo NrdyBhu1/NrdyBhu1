@@ -42,3 +42,7 @@ Currently I am youtubing and thinking of a neat game concept.
 [My Website](https://nrdybhu1.github.io/) \
 [Gmail](nrdybhu1.queries@gmail.com) \
 [Github](https://github.com/NrdyBhu1) 
+
+# Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=NrdyBhu1&theme=algolia)
+
