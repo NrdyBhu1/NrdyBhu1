@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-This down here is the count of number of people who visited my github profile. 
-
-[![HitCount](http://hits.dwyl.com/NrdyBhu1/NrdyBhu1.svg)](#)
+I`m NrdyBhu1
 
 # About Me
 I am a passionate game dev and i learnt many languages only to make games.
