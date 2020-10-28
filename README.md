@@ -2,7 +2,7 @@
 I`m NrdyBhu1
 
 # About Me
-I am a passionate game dev and i learnt many languages only to make games.
+I am a passionate game dev 👨🏻‍💻 and i learnt many languages only to make games.
 
 # What tools do i use?
 I use VS-Code , Unity , GIMP , Audacity and Bosca Ceoil for game dev.
@@ -41,5 +41,8 @@ Currently I am youtubing and thinking of a neat game concept.
 [Github](https://github.com/NrdyBhu1) 
 
 # Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=NrdyBhu1&theme=algolia)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&show_icons=true&theme=dark&line_height=40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&theme=dark">
+</p>
 
