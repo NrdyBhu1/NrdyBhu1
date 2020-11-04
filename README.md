@@ -51,6 +51,6 @@ Currently I am youtubing and thinking of a neat game concept.
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=Blind-Bird&show_owner=true)](https://github.com/NrdyBhu1/Blind-Bird)
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=nrdybhu1.github.io&show_owner=true)](https://github.com/NrdyBhu1/nrdybhu1.github.io)
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=discordjs-bot&show_owner=true)](https://github.com/NrdyBhu1/discordjs-bot)
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=SizzlyBall&show_owner=true)](https://github.com/NrdyBhu1/SizzlyBall)
+    <a href="https://github.com/NrdyBhu1/SizzlyBall"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=SizzlyBall&show_owner=true"></a>
 
 
