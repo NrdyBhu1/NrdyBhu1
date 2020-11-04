@@ -42,7 +42,7 @@ Currently I am youtubing and thinking of a neat game concept.
 
 # Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&show_icons=true&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&show_icons=true&layout=compact&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&theme=synthwave">
 </p>
 
