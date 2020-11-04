@@ -46,3 +46,10 @@ Currently I am youtubing and thinking of a neat game concept.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
+# My Showcase
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=Blind-Bird&show_owner=true">
+</p>
+
+
