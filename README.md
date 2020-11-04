@@ -50,6 +50,9 @@ Currently I am youtubing and thinking of a neat game concept.
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=Blind-Bird&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=nrdybhu1.github.io&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=discordjs-bot&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=SizzlyBall&show_owner=true">
 </p>
 
 
