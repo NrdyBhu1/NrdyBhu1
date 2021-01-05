@@ -14,21 +14,6 @@ I use VS-Code , Unity , GIMP , Audacity and Bosca Ceoil for game dev.
 - [Audacity](https://audacityteam.org) is usefull for sound effects.
 - [Bosca Ceoil](https://boscaceoil.net) is an awesome tool for music creation.
 ---
-<details>
-    <summary>What languages do I know?</summary>
-    <img src="https://raster.shields.io/badge/python-90%25-green.png">
-    <img src="https://raster.shields.io/badge/html-80%25-important.png">
-    <img src="https://raster.shields.io/badge/css-50%25-informational.png">
-    <img src="https://raster.shields.io/badge/javascript-70%25-yellow.png">
-    <img src="https://raster.shields.io/badge/brainf-100%25-ff69b4.png">
-    <img src="https://raster.shields.io/badge/rust-70%25-red.png">
-    <img src="https://raster.shields.io/badge/java-80%25-critical.png">
-    <img src="https://raster.shields.io/badge/csharp-80%25-success.png">
-    <img src="https://raster.shields.io/badge/cpp-20%25-inactive.png">
-    <img src="https://raster.shields.io/badge/cg-80%25-blueviolet.png">
-</details>
-
----
 
 # My first project
 My first project was a prototype which was unfinished but still it was a game.
