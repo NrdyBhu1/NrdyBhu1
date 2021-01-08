@@ -17,9 +17,6 @@ I use VS-Code , Unity , GIMP , Audacity and Bosca Ceoil for game dev.
 
 # My first project
 My first project was a prototype which was unfinished but still it was a game.
-
----
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ikvgabmxo4ysjcw58a6tcw6am)
 ---
 
 # What am I doing currently
