@@ -43,15 +43,3 @@ Currently I am youtubing and thinking of a neat game concept.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&bg_color=30,1565C0,b92b27&title_color=fff&text_color=fff">
     </p>
 </details>
-
----
-
-<details>
-    <summary>My Showcase</summary>
-    <p>
-        <a href="https://github.com/NrdyBhu1/Blind-Bird"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=Blind-Bird&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-        <a href="https://github.com/NrdyBhu1/nrdybhu1.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=nrdybhu1.github.io&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-        <a href="https://github.com/NrdyBhu1/discordjs-bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=discordjs-bot&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-        <a href="https://github.com/NrdyBhu1/SizzlyBall"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=SizzlyBall&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-    </p>
-</details>
