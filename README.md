@@ -33,10 +33,6 @@ Currently I am youtubing and thinking of a neat game concept.
     <a href="mailto: nrdybhu1.queries@gmail.com">Gmail</a>
     <a href="https://github.com/NrdyBhu1">Github</a> 
 </details>
-
-![README view count](https://api.ghprofile.me/view?username=NrdyBhu1&label=README%20views&color=0b0764)
-
-
     
 ---
 
@@ -47,3 +43,6 @@ Currently I am youtubing and thinking of a neat game concept.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&bg_color=30,1565C0,b92b27&title_color=fff&text_color=fff">
     </p>
 </details>
+
+![README view count](https://api.ghprofile.me/view?username=NrdyBhu1&label=README%20views&color=0b0764)
+
