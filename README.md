@@ -45,7 +45,7 @@ Currently I am youtubing and thinking of a neat game concept.
 </details>
 
 # Wanna hear a joke?
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
 
 ![README view count](https://api.ghprofile.me/view?username=NrdyBhu1&label=README%20views&color=0b0764)
 
