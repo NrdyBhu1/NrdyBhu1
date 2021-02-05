@@ -33,6 +33,10 @@ Currently I am youtubing and thinking of a neat game concept.
     <a href="mailto: nrdybhu1.queries@gmail.com">Gmail</a>
     <a href="https://github.com/NrdyBhu1">Github</a> 
 </details>
+
+![README view count](https://api.ghprofile.me/view?username=NrdyBhu1&label=README%20views&color=0b0764)
+
+
     
 ---
 
