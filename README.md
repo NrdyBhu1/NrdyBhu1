@@ -4,7 +4,7 @@ I'm NrdyBhu1
 ---
 
 # About Me
-I am a passionate game dev 👨🏻‍💻 and i learnt many languages only to make games.
+I am a passionate game dev 👨🏻‍💻 
 ---
 What tools do i use?
 I use VSCodium , Vim , GIMP , Audacity and Bosca Ceoil for game dev.
