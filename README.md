@@ -7,9 +7,8 @@ I'm NrdyBhu1
 I am a passionate game dev 👨🏻‍💻 
 ---
 What tools do i use?
-I use VSCodium , Vim , GIMP , Audacity and Bosca Ceoil for game dev.
+I use VSCodium , GIMP , Audacity and Bosca Ceoil for game dev.
 - [VSCodium](https://vscodium.com/) is a very good and light-weight ide with awesome auto-completion.
-- [Vim](https://vim.org)  is an awesome game-engine with so many cool features and uses C# code to compile and make games.
 - [GIMP](https://gimp.org) is an amazing software for creating sprites and exporting them.
 - [Audacity](https://audacityteam.org) is usefull for sound effects.
 - [Bosca Ceoil](https://boscaceoil.net) is an awesome tool for music creation.
