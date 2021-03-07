@@ -38,8 +38,8 @@ Currently I am youtubing and thinking of a neat game concept.
 <details>
     <summary>Stats</summary>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&show_icons=true&layout=compact&bg_color=30,12c2e9,f64f59&title_color=fff&text_color=fff">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&bg_color=30,1565C0,b92b27&title_color=fff&text_color=fff">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&hide_border=true&card_width=250&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
     </p>
 </details>
 
