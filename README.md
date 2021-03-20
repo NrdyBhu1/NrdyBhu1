@@ -40,6 +40,7 @@ Currently I am youtubing and thinking of a neat game concept.
 <img src="https://github-profile-trophy.vercel.app/?username=NrdyBhu1&theme=onedark"><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&hide_border=true&card_width=250&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>  
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=NrdyBhu1&theme=onedark&hide_border=true"><br> 
 
 ---  
 
