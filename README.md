@@ -4,37 +4,12 @@ I'm NrdyBhu1
 ---
 
 # About Me
-I am a passionate game dev 👨🏻‍💻 
----
-What tools do i use?
-I use VSCodium , GIMP , Audacity and Bosca Ceoil for game dev.
-- [VSCodium](https://vscodium.com/) is a very good and light-weight ide with awesome auto-completion.
-- [GIMP](https://gimp.org) is an amazing software for creating sprites and exporting them.
-- [Audacity](https://audacityteam.org) is usefull for sound effects.
-- [Bosca Ceoil](https://boscaceoil.net) is an awesome tool for music creation.
----
-
-# My first project
-My first project was a prototype which was unfinished but still it was a game.
----
-
-# What am I doing currently
-Currently I am youtubing and thinking of a neat game concept.
-
+I am a passionate game dev 👨🏻‍💻   
+Vim User and lover  
+Not a great artist  
 ---
 <br><h1>Wanna hear a joke?</h1>
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0">
-
----
-
-# Social Accounts
-<a href="https://nrdybhu1.itch.io/">Itch.io</a>  <br>
-<a href="https://patreon.com/NrdyBhu1">Patreon</a>  <br>
-<a href="https://www.youtube.com/channel/UCoPBq4YveNbsHkg4Rd9AXXQ">Youtube</a>  <br>
-<a href="https://nrdybhu1.github.io/">My Website</a>  <br>
-<a href="mailto: nrdybhu1.queries@gmail.com">Gmail</a>  <br>
-<a href="https://github.com/NrdyBhu1">Github</a>   <br>
-    
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0">    
 ---
 <h1>Stats</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=NrdyBhu1&theme=onedark"><br>
