@@ -10,7 +10,6 @@ Not a great artist
 ---
 <h1>Wanna hear a joke?</h1>
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0">    
----
 <h1>Stats</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=NrdyBhu1&theme=onedark">  
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=NrdyBhu1&theme=onedark&hide_border=true">  
