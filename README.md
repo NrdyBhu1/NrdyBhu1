@@ -4,7 +4,7 @@ I'm NrdyBhu1
 ---
 
 # About Me
-I am a passionate game dev 👨🏻‍💻   
+Love game dev 👨🏻‍💻   
 Vim User and lover  
 Not a great artist  
 ---
