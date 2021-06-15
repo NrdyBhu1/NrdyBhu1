@@ -5,6 +5,7 @@ I'm NrdyBhu1
 Love game dev 👨🏻‍💻   
 Vim User and lover  
 Not a great artist  
+Inspiration from [jdh](http://jdh.gg/) from youtube.  
 How do i decide commit names - [Names](http://whatthecommit.com/index.txt)
 
 <h1>Wanna hear a joke?</h1>
