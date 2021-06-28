@@ -8,6 +8,9 @@ Not a great artist
 Inspiration from [jdh](http://jdh.gg/) from youtube.  
 How do i decide commit names - [Names](http://whatthecommit.com/index.txt)
 
+# My dotfiles
+[NrdyBhu1/.files](https://github.com/NrdyBhu1/.files)
+
 # Wanna hear a joke?
 ![Joke](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)  
 # Stats
