@@ -2,7 +2,9 @@
 I'm NrdyBhu1
 
 # About Me
-Vim lover  
+I love vim and emacs
+**Currently Working on**  
+[![poof](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=poof&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/poof)
 
 # Some notable repos
 [![Atlas-Jekyll-Theme](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=atlas-jekyll-theme&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/atlas-jekyll-theme)
