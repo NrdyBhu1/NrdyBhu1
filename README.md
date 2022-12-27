@@ -27,6 +27,8 @@ I love vim and emacs
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=NrdyBhu1&theme=onedark)
 ![README stats](https://github-readme-stats.vercel.app/api?username=NrdyBhu1&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&langs_count=20&theme=onedark)
+<br>
 ![Stats graph](https://activity-graph.herokuapp.com/graph?username=NrdyBhu1&theme=react-dark&area=true)
+<br>
 ![](https://count.getloli.com/get/@NrdyBhu1.github.readme)
 </br>
