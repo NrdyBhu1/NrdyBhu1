@@ -152,7 +152,7 @@ print(me)
 
 ---
 
-## 🎯 Currently Working On
+<!-- ## 🎯 Currently Working On
 
 ```
 📌  Flutter App      →  German Vocabulary Flashcard App
@@ -162,7 +162,7 @@ print(me)
                         (Deep Learning + Computer Vision)
 ```
 
----
+--->
 
 ## 📚 Education
 
